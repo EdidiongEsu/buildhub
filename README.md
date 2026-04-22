@@ -1,12 +1,12 @@
 # BuildHub (DEC_Builders)
 
-Welcome to **BuildHub**, an accountability space that started from a group of folks from [DEC](https://dataengineeringcommunity.com/). Here, data engineers, analysts, and data enthusiasts turn ideas into tangible projects. Every 10 weeks, members deliver unique, end-to-end projects, document them thoroughly, and share their building skills, creativity, and a strong portfolio along the way.
+Welcome to **BuildHub**, an accountability space that started from a group of folks from [DEC](https://dataengineeringcommunity.com/). Here, data engineers, analysts, and data enthusiasts turn ideas into tangible projects. Every quarter, members deliver unique, end-to-end projects, document them thoroughly, and share their building skills, creativity, and a strong portfolio along the way.
 
 The goal is simple: **build, document, share, and grow**. By the end of the year, everyone here will have a portfolio of robust, end-to-end projects.
 
 ## How It Works
 
-1. **Project Cycle:** Each builder must complete a new project every **10 weeks**. The deadline is the **2nd week of every third month**. Missing the deadline means removal from the group.  
+1. **Project Cycle:** Each builder must complete a new project every **quarter**. The deadline is the **2nd week of the new month in the new quarter**. Missing the deadline means removal from the group.  
 2. **Project Requirements:**  
    - Include at least **Extract, Transform, and Load (ETL/ELT)** steps.  
    - Provide **reproducible documentation** with clear explanations and data architecture diagrams.  
