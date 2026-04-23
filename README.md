@@ -53,6 +53,6 @@ The goal is simple: **build, document, share, and grow**. By the end of the year
 
 -----
 
-If you are interested in joining Buildhub. Please, reach me on [LinkedIN](https://www.linkedin.com/in/edidiong-esu-1942a2129/).
+If you are interested in joining Buildhub. Please, reach out to me on [LinkedIN](https://www.linkedin.com/in/edidiong-esu-1942a2129/).
 
 Happy Building! 🧑🏽‍💻👷🏽‍♂️🔨
