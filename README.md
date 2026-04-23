@@ -26,19 +26,19 @@ The goal is simple: **build, document, share, and grow**. By the end of the year
 | Name | Socials | Project_1 | Comments |
 |------|----------|--------|----------|
 | Edidiong Esu | [![li]](https://www.linkedin.com/in/edidiong-esu-1942a2129/) [![gh]](https://github.com/EdidiongEsu) | [![li]](https://www.linkedin.com/posts/edidiong-esu-1942a2129_dataengineering-databricks-analyticsengineering-activity-7445021063295590400-PEtf/) [![gh]](https://github.com/EdidiongEsu/electrical_grid) | |
-| Ifeanyichukwu Onyechere | [![li]](https://linkedin.com/in/ioaviator) [![gh]](https://github.com/ioaviator) | | |
+| Ifeanyichukwu Onyechere | [![li]](https://linkedin.com/in/ioaviator) [![gh]](https://github.com/ioaviator) | [![li]](https://www.linkedin.com/posts/ioaviator_%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9B%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A6-data-generated-from-activity-7444303678783791104-jUwv/) [![gh]](https://github.com/ioaviator/Real-Time-Stock-Market-Analysis) | |
 | Onidajo Wale-Olaitan | [![li]](https://linkedin.com/in/fikayo-wale-olaitan) [![gh]](https://github.com/WillowyBoat2388) | | |
 | Abdulraheem Quwam | [![li]](https://linkedin.com/in/abdulraheemquwam) [![gh]](https://github.com/thatquams) | | |
-| Abdur-Rahman Olaniyan | [![li]](https://www.linkedin.com/in/abdur-rahman-olaniyan) [![gh]](https://github.com/AbdurRahman-Olaniyan) | | |
+| Abdur-Rahman Olaniyan | [![li]](https://www.linkedin.com/in/abdur-rahman-olaniyan) [![gh]](https://github.com/AbdurRahman-Olaniyan) | [![li]](https://www.linkedin.com/posts/abdur-rahman-olaniyan_dataengineering-microsoftfabric-etl-activity-7439380327158046722-HL6y/) [![gh]](https://github.com/AbdurRahman-Olaniyan/Insurance-Data-Analytics-Pipeline-with-Microsoft-Fabric) | |
 | Ebube Ijezie | [![li]](https://www.linkedin.com/in/ebube-ijezie-68a9a4173) [![gh]](https://github.com/Cassyeh) | | |
-| Ayooluwa Jesuniyi | [![li]](https://www.linkedin.com/in/ayooluwa-jesuniyi-9166a0165/) [![gh]](https://github.com/Ayooluwa29) | | |
+| Ayooluwa Jesuniyi | [![li]](https://www.linkedin.com/in/ayooluwa-jesuniyi-9166a0165/) [![gh]](https://github.com/Ayooluwa29) | [![li]](https://www.linkedin.com/posts/ayooluwa-jesuniyi-9166a0165_dataengineering-dbt-bigquery-activity-7443667919869419520-Mda1/) [![gh]](https://github.com/Ayooluwa29/production-grade-mobility-analytics) | |
 | Kabir Mohammed | [![li]](https://www.linkedin.com/in/kabir-mohammed-91286922) [![gh]](https://github.com/kabiromohd) | | |
 | Abasifreke Nkanang | [![li]](https://www.linkedin.com/in/abasifreke-nkanang) [![gh]](https://github.com/Data-Bishop) | | |
 | John Amakata | [![li]](https://www.linkedin.com/in/john-amakata-0a3965136) [![gh]](https://github.com/johngodday) | | |
 | Muhammed Sulaimon |  [![li]](https://www.linkedin.com/in/muhammed-sulaimon-7480b21b0/) [![gh]](https://github.com/Maniesjr12) | | |
 | Oluwajuwon Adenugba | [![li]](https://www.linkedin.com/in/oluwajuwonadenugba/) [![gh]](https://github.com/Jucodez) | | |
 | Olajide Abdullateef | [![li]](https://www.linkedin.com/in/OlajideAbdullateef) [![gh]](https://github.com/TheOlajide) | | |
-| Chidinma Okeh | [![li]](https://www.linkedin.com/in/chidinma-okeh/) [![gh]](https://github.com/AnalystChidinma) | | |
+| Chidinma Okeh | [![li]](https://www.linkedin.com/in/chidinma-okeh/) [![gh]](https://github.com/AnalystChidinma) | [![li]](https://www.linkedin.com/feed/update/urn:li:activity:7444706640941002753/?originTrackingId=ZZXCq8%2BAMrM2tRKepGWLVg%3D%3D) [![gh]](https://github.com/AnalystChidinma/kartify-elt-pipeline-dbt-snowflake) | |
 | Olusegun Olukayode |  [![li]](https://linkedin.com/in/olukayodeolusegun) [![gh]](https://github.com/Olu-segun) | | |
 | Emmanuel Enya | [![li]](https://www.linkedin.com/in/enyaemmanue) [![gh]](https://github.com/Eigjr) | | |
 | Chibueze Obasi | [![li]](https://www.linkedin.com/in/chibuobasi/) [![gh]](https://github.com/chibutechie) | [![li]](https://www.linkedin.com/posts/chibuobasi_dataengineering-businessintelligence-powerbi-activity-7445814740733345792-lLO2/) [![gh]](https://github.com/Chibutechie/competitive-pricing-etl) | |
