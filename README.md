@@ -1,4 +1,4 @@
-<img width="175" height="30" alt="image" src="https://github.com/user-attachments/assets/9228e895-a8ee-4e58-8def-925532a8dc11" /># BuildHub (DEC_Builders)
+# BuildHub (DEC_Builders)
 
 Welcome to **BuildHub**, an accountability space that started from a group of folks from [DEC](https://dataengineeringcommunity.com/). Here, data engineers, analysts, and data enthusiasts turn ideas into tangible projects. Every quarter, members deliver unique, end-to-end projects, document them thoroughly, and share their building skills, creativity, and a strong portfolio along the way.
 
